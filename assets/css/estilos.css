@@ -50,8 +50,7 @@ header{
 }
 
 .section{
-  padding: 0em;
-  padding-top: 4em;
+  padding-bottom: 5em;
 }
 
 .principal__button{
@@ -183,7 +182,7 @@ nav.scroll{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  gap: 5em;
+  gap: 8em;
 }
 
 .about-main__container{
@@ -350,7 +349,6 @@ nav.scroll{
 }
 
 .form__container{
-  display: flex;
   justify-content: center;
   margin-top: 2em;
 }
